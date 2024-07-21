@@ -1,5 +1,5 @@
 # KoreaDonWrappedXAUt
-Wrap XAUt (Gold token, troy ounces units) to Korean `Don` units.
+Wrap XAUt (Gold token, troy ounces units) to Korea `Don` units.
 
 ## Rational
 [XAUt](https://gold.tether.to/) is a digital token backed by physical gold and backed by Tether. This token is traded in troy ounces, which is the unit used in gold trading internationally. <br>
